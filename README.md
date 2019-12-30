@@ -9,3 +9,6 @@ When you get bored with it, you can just press spacebar for the backtracking alg
 in and solve the sudoku for you with a visualisation of the process ;)
 
 You can modify the initial board in board.txt
+
+
+First time coding in python, so I there is a lot of space for improvement..
