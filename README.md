@@ -1,4 +1,4 @@
-# Backtracking-algorithm---Sudoku-game
+# Backtracking algorithm - Sudoku game
 My take on backtracking algorithm. Game of sudoku is used to visualize the backtracking algorithm
 
 Click on a square to select it. Type a number to write it in the selected box as a suggetion. 
